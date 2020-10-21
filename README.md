@@ -12,8 +12,6 @@
 
 @property (nonatomic, strong) YGCustomTableViewDataSource *dataSource;
 
-@property (nonatomic, strong) UIButton *writeButton;
-
 @end
 
 - (void)setupData {
