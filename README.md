@@ -1,0 +1,2 @@
+# YGHTTPPageRequestTool
+快速实现页面的分页数据请求和展示功能
